@@ -4,7 +4,7 @@
 const sebastianbarcia = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Bootstrap, MUI, git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
+  tools: [React, Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
 }
 
 - 🌱 I’m currently learning **React JS**
