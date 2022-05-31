@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I'm Sebastián 👋 
+
+
+```javascript
+const sebastianbarcia = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Bootstrap, MUI, Adobe XD],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 <!--
 **sebastianbarcia/sebastianbarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
