@@ -1,5 +1,4 @@
-### Hi, I'm Sebastián 👋 
-
+### Hi, I'm Sebastián 👋 Developer JavaScript 
 
 ```javascript
 const sebastianbarcia = {
