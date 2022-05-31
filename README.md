@@ -4,8 +4,8 @@
 const sebastianbarcia = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Bootstrap, MUI, Adobe XD],
-  
+  tools: [React, Bootstrap, MUI, Adobe XD, git, Sass],
+  other tools :[illustrator, Photoshop, Figma, ],
 }
 ```
 You can find me 🌎:
