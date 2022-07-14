@@ -3,11 +3,9 @@
 ```javascript
 const sebastianbarcia = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
+  code: [Javascript, HTML, CSS, ReactJS],
   tools: [React, Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
 }
-
-- 🌱 I’m currently learning **React JS**
 
 - 👯 participate in the creation of the website [restaurant.pe](https://restaurant.rowe.mx/)
 
