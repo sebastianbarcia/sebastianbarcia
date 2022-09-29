@@ -1,4 +1,4 @@
-### Hi, I'm Sebastián 👋 Developer JavaScript 
+### Hi, I'm Sebastián 👋 Front-end React Developer 
 
 ```javascript
 const sebastianbarcia = {
