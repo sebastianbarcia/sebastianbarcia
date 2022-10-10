@@ -8,19 +8,15 @@ const sebastianbarcia = {
   herramientas: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
 }
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Github] https://www.sebastianbarcia.github.io/portfolio/
-
-- 💬 Pregúntame sobre **React JS, Javascript, HTML5, CSS3**
-
-- 📫 Como contactarme **sebastianbarcia@hotmail.com**
-
 ```
+👨‍💻 Todos mis proyectos están disponibles en https://www.sebastianbarcia.github.io/portfolio/
+
 Puedes encontrarme 🌎:
 - [Instagram] https://www.instagram.com/sebastian_barcia/
 - [Facebook] https://www.facebook.com/SebastianBarcia
 - [Linkedin] https://www.linkedin.com/in/sebastian-barcia/ 
 
-
+- 📫 Como contactarme? **sebastianbarcia@hotmail.com**
 
 ### Hi, I'm Sebastián 👋 Front-end React Developer 
 
