@@ -16,7 +16,7 @@ Puedes encontrarme 🌎:
 - [Facebook] https://www.facebook.com/SebastianBarcia
 - [Linkedin] https://www.linkedin.com/in/sebastian-barcia/ 
 
-- 📫 Como contactarme? **sebastianbarcia@hotmail.com**
+📫 Como contactarme? **sebastianbarcia@hotmail.com**
 
 ### Hi, I'm Sebastián 👋 Front-end React Developer 
 
@@ -27,16 +27,12 @@ const sebastianbarcia = {
   tools: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
 }
 
+```
 - 👨‍💻 All of my projects are available at https://sebastianbarcia.github.io/portfolio/
 
-- 💬 Ask me about **React JS, Javascript, HTML5, CSS3**
-
-- 📫 How to reach me **sebastianbarcia@hotmail.com**
-
-```
 You can find me 🌎:
 - [Instagram] https://www.instagram.com/sebastian_barcia/
 - [Facebook] https://www.facebook.com/SebastianBarcia
 - [Linkedin] https://www.linkedin.com/in/sebastian-barcia/ 
 
-
+📫 How to contact me? **sebastianbarcia@hotmail.com**
