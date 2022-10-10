@@ -8,6 +8,7 @@ const sebastianbarcia = {
   herramientas: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
 }
 
+🎇 Desarrollador Front End con interés en el codigo limpio y el diseño minimalista de sitios webs. 
 ```
 👨‍💻 Todos mis proyectos están disponibles en https://www.sebastianbarcia.github.io/portfolio/
 
@@ -27,8 +28,10 @@ const sebastianbarcia = {
   tools: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
 }
 
+🎇 Front End Developer with an interest in clean code and minimal website design.
+
 ```
-- 👨‍💻 All of my projects are available at https://sebastianbarcia.github.io/portfolio/
+👨‍💻 All of my projects are available at https://sebastianbarcia.github.io/portfolio/
 
 You can find me 🌎:
 - [Instagram] https://www.instagram.com/sebastian_barcia/
