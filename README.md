@@ -8,7 +8,7 @@ const sebastianbarcia = {
   herramientas: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
 }
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/sebastianbarcia](https://github.com/sebastianbarcia)
+- 👨‍💻 Todos mis proyectos están disponibles en https://sebastianbarcia.github.io/portfolio/
 
 - 💬 Pregúntame sobre **React JS, Javascript, HTML5, CSS3**
 
@@ -31,7 +31,7 @@ const sebastianbarcia = {
   tools: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop],
 }
 
-- 👨‍💻 All of my projects are available at [https://github.com/sebastianbarcia](https://github.com/sebastianbarcia)
+- 👨‍💻 All of my projects are available at [https://github.com/sebastianbarcia](https://sebastianbarcia.github.io/portfolio/)
 
 - 💬 Ask me about **React JS, Javascript, HTML5, CSS3**
 
