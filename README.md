@@ -32,7 +32,6 @@ const sebastianbarcia = {
 }
 
 - 👨‍💻 All of my projects are available at https://sebastianbarcia.github.io/portfolio/
-https://sebastianbarcia.github.io/portfolio/
 
 - 💬 Ask me about **React JS, Javascript, HTML5, CSS3**
 
