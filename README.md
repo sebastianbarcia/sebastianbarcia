@@ -3,7 +3,6 @@
 
 ```javascript
 const sebastianbarcia = {
-  pronombres: "él",
   código: [Javascript, HTML, CSS, ReactJS],
   herramientas: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop , Wordpress],
   estudiando: [ React Native, Typescript],
@@ -24,7 +23,6 @@ Puedes encontrarme 🌎:
 
 ```javascript
 const sebastianbarcia = {
-  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, ReactJS],
   tools: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop , Wordpress],
   learning: [ React Native, Typescript],
