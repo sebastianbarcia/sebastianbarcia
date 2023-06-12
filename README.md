@@ -4,8 +4,8 @@
 ```javascript
 const sebastianbarcia = {
   código: [Javascript, HTML, CSS, ReactJS],
-  herramientas: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop , Wordpress],
-  estudiando: [ React Native, Typescript],
+  herramientas: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop , Wordpress, React Native],
+  estudiando: [Typescript],
 }
 
 🎇 Soy Desarrollador Front End. Me encanta hacer sitios webs con diseños simples, con entusiasmo en el proposito para el que fue encomendado el proyecto y como va a ser utilizado por los usuarios. Me esfuerzo y capacito permanentemente para optimizar mi codigo.   
@@ -24,8 +24,8 @@ Puedes encontrarme 🌎:
 ```javascript
 const sebastianbarcia = {
   code: [Javascript, HTML, CSS, ReactJS],
-  tools: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop , Wordpress],
-  learning: [ React Native, Typescript],
+  tools: [Bootstrap, MUI, Git, Sass, Adobe XD, Figma, Illustrator, Photoshop , Wordpress , React Native ],
+  learning: [Typescript],
 }
 
 🎇 I am a Front End Developer. I love making websites with simple designs, with enthusiasm in the purpose for which the project was entrusted and how it will be used by users. I constantly strive and train to optimize my code.
